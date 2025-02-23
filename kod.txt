@@ -1,1 +1,2 @@
 Registracia pouzivatela funkcionalita
+Registracia admin pouzivatela
